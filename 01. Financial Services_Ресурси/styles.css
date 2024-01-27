@@ -44,7 +44,7 @@ img {
 .section-content article,
 .section-content article .media {
     display: block;
-    overflow: hidden; /* Ако нещо излезе, да го отрежем */
+    overflow: hidden; 
     border-radius: 1em;
 }
 
@@ -56,7 +56,7 @@ img {
 }
 
 .section-content article .entry-content { 
-    padding: 1.5em;   /* За всеки артикъл сме направили по един див контейнер за текста , за да го подравним без напрежение */
+    padding: 1.5em;
 }
 
 .section-content article .entry-content p {
